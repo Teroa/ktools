@@ -1,10 +1,6 @@
-build/**
+
 deps/**
 local/**
-**/Makefile
-*.txt
-*.cmake
-
 *.o
 *.so
 *.a
@@ -12,6 +8,7 @@ local/**
 *.exe
 
 *.tar.gz
+.DS_Store
 *.zip
 releases
 releases/*
